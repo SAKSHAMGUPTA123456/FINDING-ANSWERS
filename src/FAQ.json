@@ -1,0 +1,27 @@
+[
+    {
+      "id":1,
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a programming language used for web development, allowing interactive elements on websites."
+    },
+    {
+      "id":2,
+      "question": "What is an API?",
+      "answer": "An API (Application Programming Interface) allows communication between different software applications."
+    },
+    {
+      "id":3,
+      "question": "What is the difference between let, var, and const?",
+      "answer": "var has function scope, let has block scope, and const is block-scoped but cannot be reassigned."
+    },
+    {
+      "id":4,
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces, developed by Facebook."
+    },
+    {
+      "id":5,
+      "question": "What is an array?",
+      "answer": "An array is a data structure that stores multiple values in a single variable."
+    }
+  ]
