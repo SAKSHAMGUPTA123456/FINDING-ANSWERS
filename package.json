@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "FINDING",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://sakshamgupta123456.github.io/FINDING-ANSWERS/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
